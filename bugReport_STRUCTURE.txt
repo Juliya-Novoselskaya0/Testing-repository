@@ -1,0 +1,22 @@
+---Generalized structure---
+1. Identifier 
+2. Summary 
+	What? Where? When? 
+3. Description
+	*optional
+4. Steps to reproduse 
+	*optional
+5. Reproducibility 
+	Always/Sometimes
+6. Severity 
+	critical/major/medium/minor
+7. Priority 
+	ASAP - as soon as possible, high, normal, low
+8. Symptom 
+	*optional
+9. Workaround 
+	if possible
+10. Comments 
+	additional info
+11. Attachments 
+	screenshots, video, files 
