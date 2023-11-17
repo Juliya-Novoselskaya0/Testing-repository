@@ -1,0 +1,5 @@
+---the structure of the checklist---
+1. Identifier
+2. Summary
+2. Result
+3. Comment
